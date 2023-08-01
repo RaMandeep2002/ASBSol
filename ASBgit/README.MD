@@ -1,6 +1,6 @@
 # Task: Research and Analyze a DeFi Protocol
 
-# What is DeFi?
+## What is DeFi?
 
 ## Introduction
 
