@@ -37,3 +37,6 @@ Most DeFi protocols are **autonomous programs** that aim to improve upon the pro
 With Defi gaining global traction across the globe, there are countless use cases that every DeFi enthusiast and emerging market leader must be aware of.
 
 ![Alt text](image-1.png)
+
+1. **Asset Management**
+   One of the notable use cases of DeFi is that individuals get the authority to experience more control over their assets than ever before. Since the users now have the power of managing their virtual assets, they can even earn from those assets. Unlike the traditional system where the users had to share their account credentials with third parties, DeFi development safeguards the confidential data of customers with no need of sharing it with any third party as the concept of DeFi simply removes the involvement of intermediaries.
