@@ -47,5 +47,5 @@ With Defi gaining global traction across the globe, there are countless use case
 3. **Decentralized Autonomous Organization (DAO)**
    Similar to controlled banking institutions that tackle core financial operations like establishing governance, generating funds, and maintaining resources, blockchain-powered ecosystems ensure decentralized systems carry out the same but in a completely decentralized manner. DAOs are completely independent and don’t have the control and involvement of any central agency. DAOs act as the pillar of DeFi development services.
 
-4. \*_Risk Analysis & Prevention_
+4. **Risk Analysis & Prevention**
    Due to decentralization and transparency, individuals can now identify and analyze silos of data which further helps in making better and more accurate decisions, discovering innovative economic opportunities, and practicing improved threat management strategies. Stepping forward, there are numerous analytics and risk management tools such as CoDeFi and DeFi Pulse which hold a lot of potential in this area. This is one of the prominent DeFi use cases.
