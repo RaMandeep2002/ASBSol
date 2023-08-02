@@ -21,3 +21,7 @@ DeFi, short for Decentralized Finance, is a revolutionary concept that aims to t
 ## DEFI Protocols
 
 DeFi protocols consist of standards, codes, and procedures that govern decentralized financial applications.
+
+## How do DeFi protocols works?
+
+Defi protocols consists of ###standards
