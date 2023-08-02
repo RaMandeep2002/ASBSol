@@ -60,4 +60,6 @@ With Defi gaining global traction across the globe, there are countless use case
 8. **Margin Trading** :-
    In the case of traditional finances, margin traders utilize their trades while they borrow funds from a broker further creating collateral for a loan. However, when it comes to DeFi blockchain development, it is backed by non-custodial and decentralized lending protocols, and the power of smart contracts has automated traditional brokerage activities and become one of the potential DeFi use cases.
 
-# UNISWAP v2
+# Governanc Mechanism
+
+# Liquidity Mechansim
