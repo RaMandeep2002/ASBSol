@@ -40,3 +40,12 @@ With Defi gaining global traction across the globe, there are countless use case
 
 1. **Asset Management**
    One of the notable use cases of DeFi is that individuals get the authority to experience more control over their assets than ever before. Since the users now have the power of managing their virtual assets, they can even earn from those assets. Unlike the traditional system where the users had to share their account credentials with third parties, DeFi development safeguards the confidential data of customers with no need of sharing it with any third party as the concept of DeFi simply removes the involvement of intermediaries.
+
+2. **KYT, AML & CFT Compliance**
+   Traditional financial institutions are majorly based on Know Your Customer (KYC) standards which further help in implementing AML and CFT measures. However, KYC rules impede the confidentiality initiatives of DeFi. This is where Know Your Transaction (KYT) combats the challenge and focuses on payment patterns rather than identifying users. The prime issues solved by KYT include safeguarding customers’ anonymity and analyzing actual transaction activity. Therefore, this is one of the notable decentralized finance use cases that grabs the attention of emerging crypto enthusiasts.
+
+3. **Decentralized Autonomous Organization (DAO)**
+   Similar to controlled banking institutions that tackle core financial operations like establishing governance, generating funds, and maintaining resources, blockchain-powered ecosystems ensure decentralized systems carry out the same but in a completely decentralized manner. DAOs are completely independent and don’t have the control and involvement of any central agency. DAOs act as the pillar of DeFi development services.
+
+4. \*_Risk Analysis & Prevention_
+   Due to decentralization and transparency, individuals can now identify and analyze silos of data which further helps in making better and more accurate decisions, discovering innovative economic opportunities, and practicing improved threat management strategies. Stepping forward, there are numerous analytics and risk management tools such as CoDeFi and DeFi Pulse which hold a lot of potential in this area. This is one of the prominent DeFi use cases.
