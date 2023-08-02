@@ -19,3 +19,5 @@ DeFi, short for Decentralized Finance, is a revolutionary concept that aims to t
 - **Accessibility**: DeFi services are accessible to anyone with an internet connection, without the need for a traditional bank account or credit check. This promotes financial inclusion and global accessibility.
 
 ## DEFI Protocols
+
+![ram](image.png)
