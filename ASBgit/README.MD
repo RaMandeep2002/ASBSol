@@ -59,3 +59,5 @@ With Defi gaining global traction across the globe, there are countless use case
    Another area where DeFi development companies are reaping the benefits from DeFi is identity. DeFi protocols backed with blockchain-powered identity systems hold the ability to assist locked-out users in gaining access to a completely global economic system further minimizing the collateralization needs for individuals who lack sufficient funds. Besides this, DeFi also helps in improving users’ creditworthiness through parameters like reputation and financial activity rather than traditional data points like overall income, home ownership, etc.
 8. **Margin Trading** :-
    In the case of traditional finances, margin traders utilize their trades while they borrow funds from a broker further creating collateral for a loan. However, when it comes to DeFi blockchain development, it is backed by non-custodial and decentralized lending protocols, and the power of smart contracts has automated traditional brokerage activities and become one of the potential DeFi use cases.
+
+# UNISWAP v2
