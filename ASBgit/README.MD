@@ -31,3 +31,9 @@ Defi protocols consists of **standards, codes, and procedures** that govern dece
 Most DeFi protocols are **autonomous programs** that aim to improve upon the processes used in traditional finance. For example, DeFi aggregators like Zapper integrate with decentralized exchanges to consolidate trading and liquidity pools in a single place. These aggregators help to eliminate the struggles associated with finding the best yields and lowest prices.
 
 ## Primary Use Cases
+
+### Top 8 Use cases of Defi
+
+With Defi gaining global traction across the globe, there are countless use cases that every DeFi enthusiast and emerging market leader must be aware of.
+
+![Alt text](image-1.png)
