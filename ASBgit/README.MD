@@ -24,4 +24,4 @@ DeFi protocols consist of standards, codes, and procedures that govern decentral
 
 ## How do DeFi protocols works?
 
-Defi protocols consists of ###standards
+Defi protocols consists of **standards, codes, and procedures** that govern decentralized financial applications. These protocols enable trading, lending, yield farming, and more. For a DeFi protocol to work correctly, it must abide by a specific set of rules that all wallets must follow when engaging with it.
